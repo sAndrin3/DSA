@@ -1,0 +1,16 @@
+/home/malanga/Documents/LeetCode/SortIntegersByTheNumberOf1Bits/obj/Debug/net8.0/SortIntegersByTheNumberOf1Bits.GeneratedMSBuildEditorConfig.editorconfig
+/home/malanga/Documents/LeetCode/SortIntegersByTheNumberOf1Bits/obj/Debug/net8.0/SortIntegersByTheNumberOf1Bits.AssemblyInfoInputs.cache
+/home/malanga/Documents/LeetCode/SortIntegersByTheNumberOf1Bits/obj/Debug/net8.0/SortIntegersByTheNumberOf1Bits.AssemblyInfo.cs
+/home/malanga/Documents/LeetCode/SortIntegersByTheNumberOf1Bits/obj/Debug/net8.0/SortIntegersByTheNumberOf1Bits.csproj.CoreCompileInputs.cache
+/home/malanga/Documents/LeetCode/SortIntegersByTheNumberOf1Bits/obj/Debug/net8.0/SortIntegersByTheNumberOf1Bits.sourcelink.json
+/home/malanga/Documents/LeetCode/SortIntegersByTheNumberOf1Bits/bin/Debug/net8.0/SortIntegersByTheNumberOf1Bits
+/home/malanga/Documents/LeetCode/SortIntegersByTheNumberOf1Bits/bin/Debug/net8.0/SortIntegersByTheNumberOf1Bits.deps.json
+/home/malanga/Documents/LeetCode/SortIntegersByTheNumberOf1Bits/bin/Debug/net8.0/SortIntegersByTheNumberOf1Bits.runtimeconfig.json
+/home/malanga/Documents/LeetCode/SortIntegersByTheNumberOf1Bits/bin/Debug/net8.0/SortIntegersByTheNumberOf1Bits.dll
+/home/malanga/Documents/LeetCode/SortIntegersByTheNumberOf1Bits/bin/Debug/net8.0/SortIntegersByTheNumberOf1Bits.pdb
+/home/malanga/Documents/LeetCode/SortIntegersByTheNumberOf1Bits/obj/Debug/net8.0/SortIntegersByTheNumberOf1Bits.dll
+/home/malanga/Documents/LeetCode/SortIntegersByTheNumberOf1Bits/obj/Debug/net8.0/refint/SortIntegersByTheNumberOf1Bits.dll
+/home/malanga/Documents/LeetCode/SortIntegersByTheNumberOf1Bits/obj/Debug/net8.0/SortIntegersByTheNumberOf1Bits.pdb
+/home/malanga/Documents/LeetCode/SortIntegersByTheNumberOf1Bits/obj/Debug/net8.0/SortIntegersByTheNumberOf1Bits.genruntimeconfig.cache
+/home/malanga/Documents/LeetCode/SortIntegersByTheNumberOf1Bits/obj/Debug/net8.0/ref/SortIntegersByTheNumberOf1Bits.dll
+/home/malanga/Documents/LeetCode/SortIntegersByTheNumberOf1Bits/obj/Debug/net8.0/SortIntegersByTheNumberOf1Bits.csproj.AssemblyReference.cache

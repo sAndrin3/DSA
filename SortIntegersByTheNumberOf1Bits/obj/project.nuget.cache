@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bG+jVX7DGK+/1wA1saobjhCxnQhMwPzc5OtMSnzCiE7yph4VgLnLpJf8ykjXNxCKI8xV4nrcTSdb7Z6IBM4m+w==",
+  "success": true,
+  "projectFilePath": "/home/malanga/Documents/LeetCode/SortIntegersByTheNumberOf1Bits/SortIntegersByTheNumberOf1Bits.csproj",
+  "expectedPackageFiles": [
+    "/home/malanga/.nuget/packages/nunit/4.1.0/nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
