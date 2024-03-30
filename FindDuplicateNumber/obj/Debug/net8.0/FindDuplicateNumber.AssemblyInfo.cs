@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FindDuplicateNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+053f4cb28ea7c3ffe37d3dea9a57f8830db2b819")]
 [assembly: System.Reflection.AssemblyProductAttribute("FindDuplicateNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FindDuplicateNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

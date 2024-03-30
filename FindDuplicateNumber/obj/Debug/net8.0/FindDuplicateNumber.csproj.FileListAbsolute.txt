@@ -4,10 +4,6 @@
 /home/malanga/Documents/LeetCode/FindDuplicateNumber/bin/Debug/net8.0/FindDuplicateNumber.dll
 /home/malanga/Documents/LeetCode/FindDuplicateNumber/bin/Debug/net8.0/FindDuplicateNumber.pdb
 /home/malanga/Documents/LeetCode/FindDuplicateNumber/bin/Debug/net8.0/Newtonsoft.Json.dll
-/home/malanga/Documents/LeetCode/FindDuplicateNumber/bin/Debug/net8.0/xunit.abstractions.dll
-/home/malanga/Documents/LeetCode/FindDuplicateNumber/bin/Debug/net8.0/xunit.assert.dll
-/home/malanga/Documents/LeetCode/FindDuplicateNumber/bin/Debug/net8.0/xunit.core.dll
-/home/malanga/Documents/LeetCode/FindDuplicateNumber/bin/Debug/net8.0/xunit.execution.dotnet.dll
 /home/malanga/Documents/LeetCode/FindDuplicateNumber/obj/Debug/net8.0/FindDuplicateNumber.csproj.AssemblyReference.cache
 /home/malanga/Documents/LeetCode/FindDuplicateNumber/obj/Debug/net8.0/FindDuplicateNumber.GeneratedMSBuildEditorConfig.editorconfig
 /home/malanga/Documents/LeetCode/FindDuplicateNumber/obj/Debug/net8.0/FindDuplicateNumber.AssemblyInfoInputs.cache
@@ -19,3 +15,4 @@
 /home/malanga/Documents/LeetCode/FindDuplicateNumber/obj/Debug/net8.0/FindDuplicateNumber.pdb
 /home/malanga/Documents/LeetCode/FindDuplicateNumber/obj/Debug/net8.0/FindDuplicateNumber.genruntimeconfig.cache
 /home/malanga/Documents/LeetCode/FindDuplicateNumber/obj/Debug/net8.0/ref/FindDuplicateNumber.dll
+/home/malanga/Documents/LeetCode/FindDuplicateNumber/obj/Debug/net8.0/FindDuplicateNumber.sourcelink.json

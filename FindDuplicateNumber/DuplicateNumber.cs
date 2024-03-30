@@ -1,45 +1,29 @@
 using System;
 using System.Collections.Generic;
+using System.Net.NetworkInformation;
 
 namespace DuplicateNumber 
 {
     public class FindDuplicate
     {
-     public int  FindDuplicateNumber(int[] nums) 
-    {
-        int x = nums[0];
-        int y = nums[0];
-        
-        while(true)
+        public List<int> FindDuplicateNumbers(int[] nums)
         {
-            //Move one step forward
-            x = nums[x];
-            
-                //Move two steps forward
-                if(nums.Length > y)
-                {
-                    y = nums[nums[y]];
-                }
-                else
-                {
-                    return -1;
-                }
-                if(x == y)
-                {
-                    break;
-                }
-        }
-            
-            //Reset x to the beginning of the array
-            x = nums[0];
-            //Move x and y until they meet again
-            while(x != y)
+            if (nums == null)
             {
-                x = nums[x];
-                y = nums[y];
+                throw new ArgumentException(nameof(nums), "Input array cannot be null.");
             }
-            // The element pointed to is now duplicate
-            return x;
-    }
+            HashSet<int> seen = new HashSet<int>();
+            List<int> duplicates = new List<int>();
+
+            foreach (int num in nums)
+            {
+                if (!seen.Add(num))
+                {
+                    duplicates.Add(num);
+                }
+            }
+
+            return duplicates;
+        }
     }
 }
